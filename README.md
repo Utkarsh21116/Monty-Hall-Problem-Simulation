@@ -30,20 +30,11 @@ This project simulates the **Monty Hall Problem**—a famous probability puzzle�
 ### ✅ Results (after 10,000 trials)
 
 ```
-No switch Wins = XXXX  | XX.XX%
-Switch Wins    = XXXX  | XX.XX%
+No switch Wins = 3384 | 33.84%
+Switch Wins    = 6616 | 66.16%
 ```
 
 > You should see switching wins ~66% of the time, while staying wins ~33%.
-
----
-
-### 💻 How to Run
-
-```bash
-python monty_hall_simulation.py
-```
-
 ---
 
 ### 🛠️ Technologies Used
