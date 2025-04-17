@@ -34,7 +34,7 @@ No switch Wins = 3384 | 33.84%
 Switch Wins    = 6616 | 66.16%
 ```
 
-> You should see switching wins ~66% of the time, while staying wins ~33%.
+> You should see switching wins ~2/3rd of the time, while staying wins ~1/3rd.
 ---
 
 ### 🛠️ Technologies Used
